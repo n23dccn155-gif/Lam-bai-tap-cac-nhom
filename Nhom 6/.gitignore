@@ -1,0 +1,4 @@
+node_modules/
+.env
+scratch-test.js
+.DS_Store
